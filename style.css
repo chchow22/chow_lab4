@@ -1,0 +1,33 @@
+h2 {
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+h4 {
+	margin-top: 20px;
+}
+
+body {
+	background-color: aqua;
+}
+
+.row {
+
+	padding: 5px;
+
+}
+
+.wrapimage {
+	width: 100%;
+}
+
+button {
+	color: blue;
+	background-color: white;
+}
+
+h2::first-letter, h4::first-letter {
+	font-size: 40px;
+}
